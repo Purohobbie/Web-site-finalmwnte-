@@ -1,0 +1,29 @@
+body{
+    background-color:gray;
+}
+h1{
+    font-style: italic;
+}
+p{
+    font-style: italic;
+}
+.inicio{
+    text-align: center;
+    color: white;
+}
+.texto{
+    text-align:center;
+    color: whitesmoke;
+}
+.centralizar-imagem{
+    text-align: center;
+}
+.centralizar{
+    text-align: center;
+}
+button{
+    border-radius: 8px;
+}
+input{
+    border-radius: 8px;
+}
