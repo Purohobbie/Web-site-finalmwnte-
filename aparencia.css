@@ -6,14 +6,12 @@ h1{
 }
 p{
     font-style: italic;
+    color: whitesmoke;
+    text-align: center;
 }
 .inicio{
     text-align: center;
     color: white;
-}
-.texto{
-    text-align:center;
-    color: whitesmoke;
 }
 .centralizar-imagem{
     text-align: center;
